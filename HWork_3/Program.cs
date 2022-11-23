@@ -4,6 +4,6 @@ int n = Convert.ToInt32(Console.ReadLine()); // ввод чисел
 
 double z = n % 2;
 if ( z == 0 )
-    Console.Write($"{true} ");
+    Console.Write("yes");
 else 
-    Console.Write($"{false} ");
+    Console.Write("no");
