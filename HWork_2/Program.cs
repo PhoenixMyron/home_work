@@ -28,7 +28,7 @@ else if ( n < m )
         max = m;
         Console.WriteLine($"{m} ");
     }
-    else if ( m < l );
+    else if ( m < l )
     {
         max = l;
         Console.WriteLine($"{l} ");
